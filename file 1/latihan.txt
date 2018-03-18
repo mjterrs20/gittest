@@ -1,0 +1,2 @@
+git fetch = buat nge download yang belum ada di local
+ini isi dari file 1
